@@ -1,4 +1,6 @@
-# https://github.com/abhishekkrthakur/bert-sentiment
+# https://github.com/arpitpatel1501/bert-sentiment
+# docker build -f Dockerfile -t docker_test .
+# docker run -t docker_test
 
 FROM ubuntu:18.04
 #FROM nvidia/cuda:10.2-cudnn7-runtime-ubuntu18.04
